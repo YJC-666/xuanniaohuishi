@@ -1,0 +1,10 @@
+build/
+devel/
+install/
+__pycache__/
+*.pyc
+.claude/
+.catkin_workspace
+*.swp
+*.zip
+.2d-autostart.service.swp
